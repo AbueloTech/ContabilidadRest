@@ -1,0 +1,8 @@
+{
+  "name": "Sabor & Cuentas - Contabilidad para Restaurantes",
+  "description": "Sistema integral de contabilidad para restaurantes y pequeños negocios: control de ingresos, egresos con subconceptos, gastos fijos, impuestos, libro diario, cierres de caja y exportación a PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
